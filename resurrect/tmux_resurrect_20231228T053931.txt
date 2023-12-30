@@ -1,0 +1,5 @@
+pane	0	1	1	:*	1	nvim tmux.conf	:/home/paivita/.config/tmux	1	nvim	:nvim tmux.conf
+pane	0	2	0	:-	1	paivita@paiva-acer:~/Descargas	:/home/paivita/Descargas	1	zsh	:
+window	0	1	:nvim	1	:*	b2bd,190x51,0,0,0	:
+window	0	2	:zsh	0	:-	bfbe,135x35,0,0,1	:
+state	0	
